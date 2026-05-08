@@ -15,7 +15,14 @@ you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my
 
 {{Currently}}
 
-Designer at [CodeRabbit](https://coderabbit.ai)
+Founder at [miso.](https://miso.so)
+Founding Product Designer at [CodeRabbit](https://coderabbit.ai)
+
+{{Previously}}
+
+Founding Product Designer at [Eudia](https://eudia.com)
+Design Fellow at [Coho](https://coho.com)
+UX Designer at [Blue Yonder](https://blueyonder.com)
 
 {{Projects}}
 
