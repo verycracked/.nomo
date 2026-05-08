@@ -5,6 +5,8 @@ font: Geist
 fontsize: 14.4px
 ---
 
+![image:64x64](https://placehold.co/128x128/0c0a09/fafaf9?text=VC)
+
 hey i'm VC, i'm a design engineer based in san francisco, currently building (([CodeRabbit](https://coderabbit.ai))).
 
 i care about interfaces that feel obvious in hindsight — small details, honest typography, and software that behaves the way you'd expect a good object to.
