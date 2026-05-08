@@ -5,7 +5,7 @@ font: Geist
 fontsize: 14.4px
 ---
 
-![image:64x64](https://placehold.co/128x128/0c0a09/fafaf9?text=VC)
+![image:64x64](/assets/me.jpeg)
 
 hey i'm VC, i'm a design engineer based in san francisco, currently building (([CodeRabbit](https://coderabbit.ai))).
 
