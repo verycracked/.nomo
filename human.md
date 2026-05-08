@@ -12,17 +12,17 @@ i care about interfaces that feel obvious in hindsight — small details, honest
 
 you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
 
-## Currently
+### Currently
 
 Designer at [CodeRabbit](https://coderabbit.ai)
 
-## Projects
+### Projects
 
 a tamagotchi for your terminal — [tamago](https://github.com/verycracked/tamago)
 twitter, but quieter — [twitbruv](https://github.com/verycracked/twitbruv)
 a pet that lives in your git history — [gitpet](https://github.com/verycracked/gitpet)
 
-## Find me
+### Find me
 
 i post on [x](https://twitter.com/verycracked)
 see my code on [github](https://github.com/verycracked)
