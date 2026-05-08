@@ -15,7 +15,7 @@ you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my
 
 {{Currently}}
 
-Founder at [miso.](https://miso.so)
+Founder at [miso.](https://www.misodesign.co)
 Founding Product Designer at [CodeRabbit](https://coderabbit.ai)
 
 {{Previously}}
