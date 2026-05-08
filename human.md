@@ -12,7 +12,7 @@ i care about interfaces that feel obvious in hindsight — small details, honest
 
 you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
 
-### Currently
+<sub>Currently</sub>
 
 Designer at [CodeRabbit](https://coderabbit.ai)
 
