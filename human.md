@@ -9,5 +9,5 @@ fontsize: 14.4px
 
 {{designer · building things at [CodeRabbit](https://coderabbit.ai)}}
 
-((🐦 [twitter](https://twitter.com/verycracked)))
+(([twitter](https://twitter.com/verycracked)))
 (([github](https://github.com/verycracked)))
