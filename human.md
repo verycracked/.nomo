@@ -1,7 +1,7 @@
 ---
 align: top
-theme: adn
-font: system
+theme: dark
+font: Geist
 fontsize: 14.4px
 ---
 
