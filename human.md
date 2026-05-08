@@ -5,8 +5,7 @@ font: Geist
 fontsize: 14.4px
 ---
 
-hey, i'm van-charles — a designer.
-currently building at (([CodeRabbit](https://coderabbit.ai))).
+hey i'm VC, i'm a design engineer based in san francisco, currently building (([CodeRabbit](https://coderabbit.ai))).
 
 i care about interfaces that feel obvious in hindsight — small details, honest typography, and software that behaves the way you'd expect a good object to.
 
