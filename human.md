@@ -5,9 +5,25 @@ font: system
 fontsize: 14.4px
 ---
 
-# Van-Charles
+hey, i'm van-charles — a designer.
+currently building at (([CodeRabbit](https://coderabbit.ai))).
 
-{{designer · building things at [CodeRabbit](https://coderabbit.ai)}}
+i care about interfaces that feel obvious in hindsight — small details, honest typography, and software that behaves the way you'd expect a good object to.
 
-(([twitter](https://twitter.com/verycracked)))
-(([github](https://github.com/verycracked)))
+you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
+
+## Currently
+
+Designer at [CodeRabbit](https://coderabbit.ai)
+
+## Projects
+
+a tamagotchi for your terminal — [tamago](https://github.com/verycracked/tamago)
+twitter, but quieter — [twitbruv](https://github.com/verycracked/twitbruv)
+a pet that lives in your git history — [gitpet](https://github.com/verycracked/gitpet)
+
+## Find me
+
+i post on [x](https://twitter.com/verycracked)
+see my code on [github](https://github.com/verycracked)
+contact me at [email](mailto:vc@coderabbit.ai)
