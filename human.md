@@ -9,8 +9,6 @@ fontsize: 14.4px
 
 hey i'm vc, i'm a design engineer based in san francisco, currently building (([coderabbit](https://coderabbit.ai))).
 
-i care about interfaces that feel obvious in hindsight — small details, honest typography, and software that behaves the way you'd expect a good object to.
-
 you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
 
 {{currently}}
