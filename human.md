@@ -32,6 +32,6 @@ opinionated all-in-one for creators — (([opall](https://www.opall.co)))
 
 {{find me}}
 
-i post on [x](https://twitter.com/verycracked)
-see my code on [github](https://github.com/verycracked)
-contact me at [email](mailto:design@vc-billingsley.com)
+(([x](https://twitter.com/verycracked)))
+(([github](https://github.com/verycracked)))
+(([email](mailto:design@vc-billingsley.com)))
