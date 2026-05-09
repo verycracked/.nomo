@@ -5,7 +5,7 @@ font: Geist
 fontsize: 14.4px
 ---
 
-![image:64x64](/assets/me.jpeg)
+![image:64x64](/assets/me.jpg)
 
 hey i'm vc, i'm a design engineer based in san francisco, currently building (([coderabbit](https://coderabbit.ai))).
 
