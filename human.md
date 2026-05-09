@@ -24,7 +24,7 @@ ux designer at [blue yonder](https://blueyonder.com)
 {{projects}}
 
 code reviews where you already work — (([coderabbit slack agent](https://agent.coderabbit.ai)))
-a quieter twitter — (([twitbruv](https://github.com/twitbruv/twitbruv)))
+a quieter twitter — (([twitbruv](https://ak2.dev/welcome)))
 trust, mapped across the internet — (([trustlists](https://github.com/trustlists/TrustLists)))
 3d codebase visualization with hand gesture control — (([starbase](https://github.com/verycracked/Starbase)))
 a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked/tamago)))
