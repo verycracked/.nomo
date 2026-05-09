@@ -26,9 +26,10 @@ UX Designer at [Blue Yonder](https://blueyonder.com)
 
 {{Projects}}
 
-a tamagotchi for your terminal — [tamago](https://github.com/verycracked/tamago)
-twitter, but quieter — [twitbruv](https://github.com/verycracked/twitbruv)
-a pet that lives in your git history — [gitpet](https://github.com/verycracked/gitpet)
+a quieter twitter — [twitbruv](https://github.com/twitbruv/twitbruv)
+trust, mapped across the internet — [trustlists](https://github.com/trustlists/TrustLists)
+3D codebase visualization with hand gesture control — [starbase](https://github.com/verycracked/Starbase)
+a tamagotchi pet for your terminal — [tamago](https://github.com/verycracked/tamago)
 
 {{Find me}}
 
