@@ -26,6 +26,7 @@ UX Designer at [Blue Yonder](https://blueyonder.com)
 
 {{Projects}}
 
+code reviews where you already work — [CodeRabbit Slack Agent](https://coderabbit.ai)
 a quieter twitter — [twitbruv](https://github.com/twitbruv/twitbruv)
 trust, mapped across the internet — [trustlists](https://github.com/trustlists/TrustLists)
 3D codebase visualization with hand gesture control — [starbase](https://github.com/verycracked/Starbase)
