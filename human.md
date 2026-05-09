@@ -37,4 +37,4 @@ opinionated all-in-one for creators — (([opall](https://www.opall.co)))
 
 i post on [x](https://twitter.com/verycracked)
 see my code on [github](https://github.com/verycracked)
-contact me at [email](mailto:vc@coderabbit.ai)
+contact me at [email](mailto:design@vc-billingsley.com)
