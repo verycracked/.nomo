@@ -19,7 +19,6 @@ founding product designer at [coderabbit](https://coderabbit.ai)
 {{previously}}
 
 founding product designer at [eudia](https://eudia.com)
-design fellow at [coho](https://coho.com)
 ux designer at [blue yonder](https://blueyonder.com)
 
 {{projects}}
