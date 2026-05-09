@@ -13,6 +13,7 @@ you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my
 
 {{currently}}
 
+founder at stealth
 founder at [miso.](https://www.misodesign.co)
 founding product designer at [coderabbit](https://coderabbit.ai)
 
@@ -25,7 +26,6 @@ ux designer at [blue yonder](https://blueyonder.com)
 
 code reviews where you already work — (([coderabbit slack agent](https://agent.coderabbit.ai)))
 a quieter twitter — (([twitbruv](https://ak2.dev/welcome)))
-trust, mapped across the internet — (([trustlists](https://github.com/trustlists/TrustLists)))
 3d codebase visualization with hand gesture control — (([starbase](https://github.com/verycracked/Starbase)))
 a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked/tamago)))
 opinionated all-in-one for creators — (([opall](https://www.opall.co)))
