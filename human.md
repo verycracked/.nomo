@@ -29,6 +29,8 @@ a quieter twitter — (([twitbruv](https://ak2.dev/welcome)))
 3d codebase visualization with hand gesture control — (([starbase](https://github.com/verycracked/Starbase)))
 a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked/tamago)))
 opinionated all-in-one for creators — (([opall](https://www.opall.co)))
+ai-powered procedural architecture generator — (([archie](https://github.com/verycracked/archie)))
+selected design work — (([portfolio](/portfolio.md)))
 
 {{find me}}
 
