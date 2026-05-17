@@ -11,6 +11,10 @@ hey i'm vc, i'm a design engineer based in san francisco, currently building (([
 
 you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
 
+{{experience}}
+
+5+ years of experience
+
 {{currently}}
 
 founder at stealth
@@ -31,6 +35,7 @@ a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked
 opinionated all-in-one for creators — (([opall](https://www.opall.co)))
 ai-powered procedural architecture generator — (([archie](https://github.com/verycracked/archie)))
 selected design work — (([portfolio](/portfolio.md)))
+cv — (([cv](/cv.md)))
 
 {{find me}}
 
