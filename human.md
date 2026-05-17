@@ -35,6 +35,7 @@ a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked
 opinionated all-in-one for creators — (([opall](https://www.opall.co)))
 ai-powered procedural architecture generator — (([archie](https://github.com/verycracked/archie)))
 selected design work — (([portfolio](/portfolio.md)))
+cv — (([cv](/cv.md)))
 
 {{find me}}
 
