@@ -11,6 +11,10 @@ hey i'm vc, i'm a design engineer based in san francisco, currently building (([
 
 you can find me at (([@verycracked](https://twitter.com/verycracked))) or see my code on (([github](https://github.com/verycracked))).
 
+{{experience}}
+
+5+ years of experience
+
 {{currently}}
 
 founder at stealth
