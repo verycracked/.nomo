@@ -30,11 +30,11 @@ a quieter twitter — (([twitbruv](https://ak2.dev/welcome)))
 a tamagotchi pet for your terminal — (([tamago](https://github.com/verycracked/tamago)))
 opinionated all-in-one for creators — (([opall](https://www.opall.co)))
 ai-powered procedural architecture generator — (([archie](https://github.com/verycracked/archie)))
-selected design work — (([portfolio](/portfolio.md)))
-cv — (([cv](/cv.md)))
 
-{{find me}}
+{{more of me}}
 
+[portfolio](/portfolio.md)
+[cv](/cv.md)
 (([x](https://twitter.com/verycracked)))
 (([github](https://github.com/verycracked)))
 (([email](mailto:design@vc-billingsley.com)))
