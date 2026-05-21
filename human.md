@@ -38,3 +38,4 @@ ai-powered procedural architecture generator — (([archie](https://github.com/v
 (([x](https://twitter.com/verycracked)))
 (([github](https://github.com/verycracked)))
 (([email](mailto:design@vc-billingsley.com)))
+(([cv](/assets/vc_billingsley_26.pdf)))
